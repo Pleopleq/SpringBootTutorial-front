@@ -1,0 +1,13 @@
+.item {
+    display: flex;
+    justify-content: space-around;
+}
+
+.edit-icon {
+    width: 12px;
+    margin-right: 6px;
+}
+
+.delete-icon {
+    width: 12px;
+}
